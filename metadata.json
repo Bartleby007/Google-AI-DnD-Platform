@@ -1,0 +1,5 @@
+{
+  "name": "Player Action Tracker",
+  "description": "A simple interface to manage RPG player stats and record their actions via a central API.",
+  "requestFramePermissions": []
+}
